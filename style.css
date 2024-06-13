@@ -7,3 +7,9 @@ body {
     border: 10px solid red;
 
 }
+
+.instruction {
+    font-size: 60%;
+    text-align: left;
+
+}
