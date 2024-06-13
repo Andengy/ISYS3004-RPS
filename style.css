@@ -10,15 +10,15 @@ body {
 
 .instruction {
     font-size: 60%;
-    text-align: left;
+    text-align: center;
 
 }
 
 .circle {
-    height:  25px;
-    width: 25px;
+    padding: 20px 20px;
     color: white;
     background-color: rgb(255, 0, 0);
     border-radius: 50%;
     display: inline-block;
+    font-size: 65%;
 }
